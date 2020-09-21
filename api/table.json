@@ -1,0 +1,64 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "北京科蓝科技有限公司",
+      "cno": "北京",
+      "period": "计算机金融",
+      "classTeacher":"张三" ,
+      "instructor": 12345678,
+      "state": "正在合作",
+      "position": "Java工程师"
+    },
+    {
+      "id": 2,
+      "majorName": "北京科蓝科技有限公司",
+      "cno": "北京",
+      "period": "计算机金融",
+      "classTeacher":"张三" ,
+      "instructor": 12345678,
+      "state": "正在合作",
+      "position": "Java工程师"
+    },    {
+      "id": 3,
+      "majorName": "北京科蓝科技有限公司",
+      "cno": "北京",
+      "period": "计算机金融",
+      "classTeacher":"张三" ,
+      "instructor": 12345678,
+      "state": "正在合作",
+      "position": "Java工程师"
+    },    {
+      "id": 4,
+      "majorName": "北京科蓝科技有限公司",
+      "cno": "北京",
+      "period": "计算机金融",
+      "classTeacher":"张三" ,
+      "instructor": 12345678,
+      "state": "正在合作",
+      "position": "Java工程师"
+    },{
+      "id": 5,
+      "majorName": "北京科蓝科技有限公司",
+      "cno": "北京",
+      "period": "计算机金融",
+      "classTeacher":"张三" ,
+      "instructor": 12345678,
+      "state": "正在合作",
+      "position": "Java工程师"
+    },
+    {
+      "id": 6,
+      "majorName": "北京科蓝科技有限公司",
+      "cno": "北京",
+      "period": "计算机金融",
+      "classTeacher":"张三" ,
+      "instructor": 12345678,
+      "state": "正在合作",
+      "position": "Java工程师"
+    }
+  ]
+}

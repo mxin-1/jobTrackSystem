@@ -1,0 +1,52 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 1000,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "北京科蓝科技有限公司",
+      "classTeacher": "张三",
+      "Teacher": "李四",
+      "time":"2020-9-21" ,
+      "place": "D-108"
+    },
+    {
+      "id": 2,
+      "majorName": "北京科蓝科技有限公司",
+      "classTeacher": "张三",
+      "Teacher": "李四",
+      "time":"2020-9-21" ,
+      "place": "D-108"
+    },    {
+      "id": 3,
+      "majorName": "北京科蓝科技有限公司",
+      "classTeacher": "张三",
+      "Teacher": "李四",
+      "time":"2020-9-21" ,
+      "place": "D-108"
+    },    {
+      "id": 4,
+      "majorName": "北京科蓝科技有限公司",
+      "classTeacher": "张三",
+      "Teacher": "李四",
+      "time":"2020-9-21" ,
+      "place": "D-108"
+    },{
+      "id": 5,
+      "majorName": "北京科蓝科技有限公司",
+      "classTeacher": "张三",
+      "Teacher": "李四",
+      "time":"2020-9-21" ,
+      "place": "D-108"
+    },
+    {
+      "id": 6,
+      "majorName": "北京科蓝科技有限公司",
+      "classTeacher": "张三",
+      "Teacher": "李四",
+      "time":"2020-9-21" ,
+      "place": "D-108"
+    }
+  ]
+}
